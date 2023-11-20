@@ -1,2 +1,2 @@
-# Charity-donation-website-
-This is a charity donation website design.
+# Charity-Jet--Donation-Website
+Charity Jet is a Donation Website with integrated payment gateway using Razorpay. 
